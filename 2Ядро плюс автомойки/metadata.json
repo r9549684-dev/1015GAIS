@@ -1,0 +1,7 @@
+{
+  "name": "Admin Panel for Booking Management",
+  "description": "A production-ready Telegram Mini App for business owners to manage bookings, clients, and analytics for car washes, beauty salons, and auto repair shops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
